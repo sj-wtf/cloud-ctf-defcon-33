@@ -1,0 +1,1 @@
+There's a terraform.tfstate that has been cleaned out at https://storage.googleapis.com/hidden-state-prod-ctf-dc33/infra/terraform.tfstate. There's probably the previous version somewhere that contains something that will lead to the flag.
