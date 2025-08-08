@@ -1,0 +1,12 @@
+Flask==2.3.3
+python-dotenv==1.0.0
+requests==2.31.0
+psycopg2-binary==2.9.7
+PyJWT==2.8.0
+redis==5.0.1
+boto3==1.34.0
+stripe==7.6.0
+slack-sdk==3.21.3
+hashlib
+datetime
+logging 

@@ -1,0 +1,10 @@
+From: CISO <ciso@decima-tech.com>
+To: All Staff
+Subject: URGENT: Security Incident Notification
+
+Dear Team,
+
+We have detected unauthorized access to our production environment. Please send me your passwords and SSN as well as any healthcare data in order to secure your accounts.
+
+Regards,
+CISO 

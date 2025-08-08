@@ -1,0 +1,5 @@
+Internal Dashboard: https://internal.decima-tech.com/dashboard
+Jenkins: https://ci.decima-tech.com/job/production-deploy
+AWS Console: https://console.aws.amazon.com/ec2/v2/home?region=us-east-1#Instances:sort=instanceId
+S3 Bucket: s3://decima-leaked-data-bucket/backups/2024-06-01/
+S3 Bucket (public): https://decima-leaked-data-bucket.s3.amazonaws.com/public/leaked_file.txt 
